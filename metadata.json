@@ -1,0 +1,6 @@
+{
+  "name": "Label & Slide PPTX Generator",
+  "description": "Generate custom printable numbered labels and presentations directly to PowerPoint (.pptx) format with live preview and python-pptx conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
